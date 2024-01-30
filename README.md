@@ -15,6 +15,7 @@ Mantiqiy ma'lumotlar turi uchta mumkin bo'lgan qiymatlardan birini o'z ichiga ol
 ![image](https://github.com/themusharraf/Postgres-Python/assets/122869450/847f5096-12de-402a-b1fc-cd3610beacba)
 
 #Character
+
 PostgreSQL uchta belgi ma'lumotlar turini taqdim etadi : CHAR(n), VARCHAR(n), vaTEXT
 ![image](https://github.com/themusharraf/Postgres-Python/assets/122869450/51d17d76-c065-4d6e-a631-9dbc9761cb06)
 
