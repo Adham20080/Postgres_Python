@@ -14,3 +14,6 @@ Ushbu qo'llanmada siz PostgreSQL ma'lumotlar turlari, Boolean, character, numeri
 Mantiqiy ma'lumotlar turi uchta mumkin bo'lgan qiymatlardan birini o'z ichiga olishi mumkin: true, false yoki null. Mantiqiy ma'lumotlar turiga ega ustunni e'lon qilish uchun siz boolean yoki bool kalit so'zidan foydalanasiz.
 ![image](https://github.com/themusharraf/Postgres-Python/assets/122869450/847f5096-12de-402a-b1fc-cd3610beacba)
 
+
+PostgreSQL uchta belgi ma'lumotlar turini taqdim etadi : CHAR(n), VARCHAR(n), vaTEXT
+
