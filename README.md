@@ -8,3 +8,6 @@ PostgreSQL, ochiq manba ob'ektlari bazasini (RDBMS) taqdim etadigan, erkin (open
 PostgreSQL Data Types
 
 Ushbu qo'llanmada siz PostgreSQL ma'lumotlar turlari, Boolean, character, numeric, temporal, array, json, uuid, va maxsus turlari haqida bilib olasiz.
+
+#Boolean
+Mantiqiy ma'lumotlar turi uchta mumkin bo'lgan qiymatlardan birini o'z ichiga olishi mumkin: true, false yoki null. Mantiqiy ma'lumotlar turiga ega ustunni e'lon qilish uchun siz boolean yoki bool kalit so'zidan foydalanasiz.
