@@ -5,3 +5,5 @@ PostgreSQL, ochiq manba ob'ektlari bazasini (RDBMS) taqdim etadigan, erkin (open
 
 ![db](https://github.com/themusharraf/Postgres-Python/assets/122869450/7f3afd3a-64ad-4d18-b7b3-ff474272473b)
 
+PostgreSQL Data Types
+Ushbu qo'llanmada siz PostgreSQL ma'lumotlar turlari, Boolean, character, numeric, temporal, array, json, uuid, va maxsus turlari haqida bilib olasiz.
