@@ -3,6 +3,5 @@
 
 PostgreSQL, ochiq manba ob'ektlari bazasini (RDBMS) taqdim etadigan, erkin (open-source) ma'lumotlar tizimi hisoblanadi. PostgreSQL yuqori darajada ma'lumot saqlash, ma'lumotlar bazasini boshqarish va so'rovlar yozishda foydalaniladi.
 
-
 ![db](https://github.com/themusharraf/Postgres-Python/assets/122869450/7f3afd3a-64ad-4d18-b7b3-ff474272473b)
 
