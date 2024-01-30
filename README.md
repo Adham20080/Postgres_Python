@@ -16,4 +16,6 @@ Mantiqiy ma'lumotlar turi uchta mumkin bo'lgan qiymatlardan birini o'z ichiga ol
 
 
 PostgreSQL uchta belgi ma'lumotlar turini taqdim etadi : CHAR(n), VARCHAR(n), vaTEXT
+![image](https://github.com/themusharraf/Postgres-Python/assets/122869450/51d17d76-c065-4d6e-a631-9dbc9761cb06)
+
 
