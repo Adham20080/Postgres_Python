@@ -23,6 +23,9 @@ O'shandan beri PostgreSQL Global Development Group, bag'ishlangan hissa qo'shuvc
 
 Dastlab PostgreSQL UNIX-ga o'xshash platformalarda ishlash uchun mo'ljallangan edi. Va keyin PostgreSQL Windows, macOS va Solaris kabi turli platformalarda ishlash uchun rivojlandi.
 
+PostgreSQL namunaviy ma'lumotlar bazasiga kirish - PostgreSQL-ni tez o'rganish uchun siz mashq qilish uchun yaxshi namunaviy ma'lumotlar bazasiga ega bo'lishingiz kerak. Ushbu qo'llanma sizni PostgreSQL nomli namunaviy ma'lumotlar bazasi bilan tanishtiradi dvdrental.
+
+
 ![image](https://github.com/themusharraf/Postgres-Python/assets/122869450/15b435ca-560c-4b0a-8102-792cc0f8fb97)
 
 
@@ -32,5 +35,4 @@ Dastlab PostgreSQL UNIX-ga o'xshash platformalarda ishlash uchun mo'ljallangan e
 
 
 
-PostgreSQL namunaviy ma'lumotlar bazasiga kirish - PostgreSQL-ni tez o'rganish uchun siz mashq qilish uchun yaxshi namunaviy ma'lumotlar bazasiga ega bo'lishingiz kerak. Ushbu qo'llanma sizni PostgreSQL nomli namunaviy ma'lumotlar bazasi bilan tanishtiradi dvdrental.
 
