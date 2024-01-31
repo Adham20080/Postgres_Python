@@ -23,7 +23,7 @@ O'shandan beri PostgreSQL Global Development Group, bag'ishlangan hissa qo'shuvc
 
 Dastlab PostgreSQL UNIX-ga o'xshash platformalarda ishlash uchun mo'ljallangan edi. Va keyin PostgreSQL Windows, macOS va Solaris kabi turli platformalarda ishlash uchun rivojlandi.
 
-
+![image](https://github.com/themusharraf/Postgres-Python/assets/122869450/15b435ca-560c-4b0a-8102-792cc0f8fb97)
 
 
 
