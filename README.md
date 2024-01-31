@@ -1,24 +1,36 @@
 # PostgreSql
-![post](https://github.com/themusharraf/Postgres-Python/assets/122869450/c63a9bd0-ee60-42bc-a258-b7abd595a5ed)
 
-PostgreSQL, ochiq manba ob'ektlari bazasini (RDBMS) taqdim etadigan, erkin (open-source) ma'lumotlar tizimi hisoblanadi. PostgreSQL yuqori darajada ma'lumot saqlash, ma'lumotlar bazasini boshqarish va so'rovlar yozishda foydalaniladi.
+PostgreSQL nima
 
-![db](https://github.com/themusharraf/Postgres-Python/assets/122869450/7f3afd3a-64ad-4d18-b7b3-ff474272473b)
+Oddiy savoldan boshlaylik: PostgreSQL nima?
 
-PostgreSQL Data Types
+PostgreSQL ilg'or, korporativ toifadagi va ochiq manbali relyatsion ma'lumotlar bazasi tizimidir. PostgreSQL ham SQL (relational) va JSON (norelational) so'rovlarini qo'llab-quvvatlaydi.
 
-Ushbu qo'llanmada siz PostgreSQL ma'lumotlar turlari, Boolean, character, numeric, temporal, array, json, uuid, va maxsus turlari haqida bilib olasiz.
+PostgreSQL - bu ochiq manbalar hamjamiyatining 20 yildan ortiq ishlab chiqishlari bilan qo'llab-quvvatlangan juda barqaror ma'lumotlar bazasi.
 
-#Boolean
+PostgreSQL ko'plab veb-ilovalar, shuningdek, mobil va tahliliy ilovalar uchun asosiy ma'lumotlar bazasi sifatida ishlatiladi.
 
-Mantiqiy ma'lumotlar turi uchta mumkin bo'lgan qiymatlardan birini o'z ichiga olishi mumkin: true, false yoki null. Mantiqiy ma'lumotlar turiga ega ustunni e'lon qilish uchun siz boolean yoki bool kalit so'zidan foydalanasiz.
-![image](https://github.com/themusharraf/Postgres-Python/assets/122869450/847f5096-12de-402a-b1fc-cd3610beacba)
+PostgreSQL hamjamiyati PostgreSQLni /ˈpoʊstɡrɛs ˌkjuː ˈɛl/ deb talaffuz qiladi.
 
-#Character
+PostgreSQL tarixi
+PostgreSQL loyihasi 1986 yilda Kaliforniya universitetining Berkli kompyuter fanlari bo'limida boshlangan.
 
-PostgreSQL uchta belgi ma'lumotlar turini taqdim etadi : CHAR(n), VARCHAR(n), vaTEXT
-![image](https://github.com/themusharraf/Postgres-Python/assets/122869450/51d17d76-c065-4d6e-a631-9dbc9761cb06)
+Loyiha dastlab Berklida ishlab chiqilgan eski Ingres ma'lumotlar bazasi haqida POSTGRES deb nomlangan. POSTGRES loyihasining maqsadi bir nechta ma'lumotlar turlarini qo'llab-quvvatlash uchun zarur bo'lgan minimal xususiyatlarni qo'shish edi.
 
-#Numeric Integer floating-point numbers PostgreSQL ikki xil turdagi raqamlarni taqdim etadi:
+1996 yilda POSTGRES loyihasi SQL-ni qo'llab-quvvatlashini aniq ko'rsatish uchun PostgreSQL deb o'zgartirildi. Bugungi kunda PostgreSQL odatda Postgres deb qisqartiriladi.
 
+O'shandan beri PostgreSQL Global Development Group, bag'ishlangan hissa qo'shuvchilar jamoasi ochiq manbali va bepul ma'lumotlar bazasi loyihasini chiqarishda davom etmoqda.
+
+Dastlab PostgreSQL UNIX-ga o'xshash platformalarda ishlash uchun mo'ljallangan edi. Va keyin PostgreSQL Windows, macOS va Solaris kabi turli platformalarda ishlash uchun rivojlandi.
+
+
+
+
+
+
+
+
+
+
+PostgreSQL namunaviy ma'lumotlar bazasiga kirish - PostgreSQL-ni tez o'rganish uchun siz mashq qilish uchun yaxshi namunaviy ma'lumotlar bazasiga ega bo'lishingiz kerak. Ushbu qo'llanma sizni PostgreSQL nomli namunaviy ma'lumotlar bazasi bilan tanishtiradi dvdrental.
 
